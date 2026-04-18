@@ -1,0 +1,6 @@
+streamlit
+groq
+requests
+PyPDF2
+python-docx
+speechrecognition
